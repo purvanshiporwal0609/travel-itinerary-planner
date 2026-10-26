@@ -22,7 +22,7 @@ export default function App() {
   return (
     <>
       <header className="topbar">
-        <Link to="/" className="brand">🧭 Wayfarer</Link>
+        <Link to="/" className="brand">🧭 Tripora</Link>
         {session && (
           <nav>
             <Link to="/new" className="btn small">+ New trip</Link>

@@ -1,4 +1,4 @@
-# 🧭 Wayfarer — Personalized Travel Itinerary Planner
+# 🧭 Tripora — Personalized Travel Itinerary Planner
 
 AI-powered full-stack app that generates, edits, regenerates and shares day-by-day travel itineraries.
 
